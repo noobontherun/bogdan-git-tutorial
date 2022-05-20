@@ -1,1 +1,2 @@
 This is file 3 with some text that only is for test purpose only.
+This text is added from local branch
